@@ -1,0 +1,26 @@
+{
+  "name": "angchatapp",
+  "version": "1.0.0",
+  "description": "Angular + Node + Express Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "Standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashraj890/AngChatApp.git"
+  },
+  "keywords": [
+    "Angular",
+    "Node",
+    "Express",
+    "Chat",
+    "Application"
+  ],
+  "author": "Yashraj Ekbote",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yashraj890/AngChatApp/issues"
+  },
+  "homepage": "https://github.com/Yashraj890/AngChatApp#readme"
+}
